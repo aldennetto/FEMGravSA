@@ -1,0 +1,15 @@
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c INPUT PARAMETERS
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+0.000007		c: smoothing factor
+0.5			c: RMS tolerance
+10			c: maximum number of iterations
+10			c: iterations per temperature
+0.005			c: alpha
+3000			c: max. number of runs
+357531			c: iseed
+2891.87155		c: Reference crustal density
+-42.933			c: Reference Moho depth (km,negative)
+Crust_SA_00003.txt	c: Output element file
+Observations_00003.txt  c: Output observations file
+GOCO05c_2d_15km.dat 	c:  Input Gravity Measurements
